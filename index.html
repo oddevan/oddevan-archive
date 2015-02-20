@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% for post in site.posts limit: 4 %}
+<div class="blog-post" style="border-bottom: 2px solid grey">
+	<h2 class="blog-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<p class="blog-post-meta"><time datetime="{{date format='YYYY-MM-DD'}}">{{date format="MMM DD YYYY"}}</time> // {{tags}}</p>
+		{{ post.content }}
+</div>
+{% endfor %}
+
+<div class="blog-post">
+	<h3>There's more in <a href="/archive/">the archive</a>.</h3>
+</div>

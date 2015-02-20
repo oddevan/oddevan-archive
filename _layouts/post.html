@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="blog-post">
+	<h2 class="blog-post-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+	<p class="blog-post-meta"><time datetime="{{ page.date | date: "%F" }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.meta %} // {{ page.meta }}{% endif %}</p>
+
+	{{content}}
+	
+	<div class="well">Thoughts? Questions? Send me <a href="http://twitter.com/oddevan">a tweet</a>, <a href="http://paperairplanemob.tumblr.com/ask">an ask</a>, or <a href="mailto:me@eph.me">an email</a>.</div>
+</div>

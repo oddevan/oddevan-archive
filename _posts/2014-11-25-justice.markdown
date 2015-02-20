@@ -1,0 +1,23 @@
+---
+layout: post
+title: Justice
+date: 2014-11-25 23:40:51.000000000 -05:00
+---
+I've largely been silent on the issue of [Ferguson, MO][fergus]. Most of what I've "said" on the topic have been [retweets][oet] and [reblogs][pam] of what other people have said. Since I'm not on the ground there, I've ceded my voice to those that are. Since this doesn't feel like my story, I've ceded my voice to those who it is.
+
+Though I've been developing opinions of my own on the subject, I was waiting for the evidence and the investigation to be made public before saying anything. I feel that I need to be serious with my words; firing off half-baked opinions about a controversial topic based on shaky evidence is not what I want to be known for. I trusted our justice system to conduct a complete investigation and give Officer Wilson a fair trial.
+
+With Monday's announcement that there would be no trial (at least at the state level), that trust has been shaken. And so I write.
+
+I firmly believe that there is enough doubt around the circumstances of Michael Brown's death that a trial is deserved. The solution to conflicting reports is to bring them out at trial. The solution to conflicting evidence is to investigate it. There is a lot of noise around this event; we need a real investigation and a real trial to cut through the noise and find the truth.
+
+Many people have bemoaned how the court of public opinion has already found Officer Wilson guilty of murder. The St. Louis County Prosecuting Attorney could have taken the judgement to an actual court, but chose not to. Perhaps I am being unfair--after all, it was a Grand Jury that chose not to indict Officer Wilson. Yet [Attorney McCulloch had a simple job and failed to do it][reddit].
+
+These events have shaken my faith in the justice system in my country. I've always believed that the system was fair; I see now that it isn't. I have thought that the disproportionate targeting of African-Americans by police was a factor of wealth or some other circumstance, but now I'm wondering if racism in the police force is a bigger problem than I first believed.
+
+Even if Michael Brown was a thug that deserved to die, Officer Wilson did not have the right to make that decision. The death penalty, even where it exists, can only be given out by a jury, not a single officer. If Michael Brown did not deserve to die, then this is a crime. This needs to be investigated. We need the truth.
+
+[fergus]: http://www.vox.com/michael-brown-shooting-ferguson-mo
+[oet]: http://twitter.com/oddevan
+[pam]: http://paperairplanemob.tumblr.com
+[reddit]: https://twitter.com/topcity/status/537199755881758720

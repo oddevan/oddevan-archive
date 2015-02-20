@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+		<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+		<link href='http://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+		<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+		<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+		<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+		<style type="text/css">
+		h1 a { 
+			background: url({{ "/css/headline.png" | prepend: site.baseurl }});
+		}
+		</style>
+    
+  </head>
+  <body>
+    <div class="jumbotron" id="jumbotop">
+    	<div class="container">
+    		<h1><a href="/"><span class="sr-only">{{site.title}}</span></a></h1>
+    		<p id="tagline">{{site.tagline}}</p>
+    	</div>
+    </div>
+    
+    <div class="container">
+    	<div class="row">
+    		
+    		<div class="col-md-8 blog-main">
+    		
+    {{content}}
+
+        </div><!-- /.blog-main -->
+        
+    		<div class="col-md-4 col-lg-3 col-lg-offset-1 blog-sidebar">
+    			<div class="row">
+    				<div class="col-sm-6 col-md-12 well">
+    					<h2><a href="http://pilltimer.oddevan.com/"><span>PillTimer</span></a></h2>
+							<p>Get my free app PillTimer, an easy way to track when you took your medicine. For iPhone and iPad.</p>
+							<p><a href="http://pilltimer.oddevan.com/">Learn more</a> | <a href="https://itunes.apple.com/us/app/pilltimer-take-your-medicine/id624064313?ls=1&mt=8">App Store</a></p>
+    				</div>
+    				<div class="col-sm-6 col-md-12">
+								<ul class="nav nav-pills nav-stacked" id="sections">
+									<li><a href="/tag/analysis/">Analysis</a></li>
+									<li><a href="/tag/reviews/">Reviews</a></li>
+									<li><a href="/tag/ramblings/">Ramblings</a></li>
+									<li><a href="/tag/introspection/">Introspection</a></li>
+									<li><a href="/about/">About</a></li>
+								</ul>
+    				</div>
+    			</div>
+    			<div class="row">
+    				<div class="col-sm-6 col-md-12">
+    					<h2>Find me on</h2>
+								<ul class="nav nav-pills nav-stacked">
+									<li><a href="http://twitter.com/oddevan">Twitter</a></li>
+									<li><a href="http://www.facebook.com/evan.hildreth">Facebook</a></li>
+									<li><a href="http://paperairplanemob.tumblr.com/">Tumblr</a></li>
+									<li><a href="http://youtube.com/oddevan">YouTube</a></li>
+									<li><a href="http://keybase.io/oddevan">Keybase</a></li>
+									<li><a href="http://github.com/oddevan">GitHub</a></li>
+									<li><a href="http://app.net/oddevan">App.net</a></li>
+								</ul>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+    
+    <div class="blog-footer">
+    	<div class="container">
+      <p id="updates">Get new articles via <a href="http://twitter.com/oddevandotcom">Twitter</a>, <a href="http://app.net/oddevandotcom/">App.net</a>, or <a href="/rss/">RSS</a>.</p>
+			<p><a href="http://eph.me/">Built by Evan Hildreth</a> in <a href="http://lifeingreenville.com/">Greenville, SC</a>.<br>
+		   &copy; Evan Hildreth. Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative Commons Attribution 4.0 Unported License</a> unless otherwise noted.</p>
+		  </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    
+    <script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-45584399-1', 'oddevan.com');
+			ga('send', 'pageview');
+
+		</script>
+  </body>
+</html>

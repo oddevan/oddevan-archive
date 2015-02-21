@@ -82,6 +82,10 @@ h6, .h6 {
   border-radius: 30px;
 }
 
+h2#taghead {
+	font-size: 40px;
+	margin-bottom: 50px;
+}
 
 /*
  * Blog posts

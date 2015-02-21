@@ -2,6 +2,7 @@
 layout: post
 title: New Year's Eve Reflection
 date: 2012-12-31 12:37:00.000000000 -05:00
+tags: [introspection]
 ---
 <p><a href="http://latenightdramaqueen.tumblr.com" target="_blank">Brittany</a> does this every year, and it’s a good idea.</p>
 

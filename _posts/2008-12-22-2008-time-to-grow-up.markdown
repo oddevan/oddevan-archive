@@ -2,6 +2,7 @@
 layout: post
 title: '2008: Time To Grow Up'
 date: 2008-12-22 08:23:36.000000000 -05:00
+tags: [introspection]
 ---
 <p>If I had to sum up 2008 in one word, it would be &#8220;woah.&#8221; If you could give me an extra word, though, it would be &#8220;growing up.&#8221; In my personal life (and in some ways the world around me) this year has been about growing up.</p>
 

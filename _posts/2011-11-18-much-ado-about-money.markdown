@@ -2,6 +2,7 @@
 layout: post
 title: Much Ado About Money
 date: 2011-11-18 12:30:54.000000000 -05:00
+tags: [reviews]
 ---
 <p>In light of <a href="http://money.cnn.com/2011/09/29/pf/bank_of_america_debit_fee/">recent jackwagonry put forth by Bank of America</a> (and despite them <a href="http://money.cnn.com/2011/11/01/pf/bank_of_america_debit_fee/index.htm">abandoning said plans</a>), the Hildreths have decided that though there's pain in our chests we still wish them the best, with a... you know the song. So where do we move our money to?</p>
 

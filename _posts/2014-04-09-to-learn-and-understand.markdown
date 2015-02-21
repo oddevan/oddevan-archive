@@ -2,6 +2,7 @@
 layout: post
 title: To Learn and Understand
 date: 2014-04-09 20:38:46.000000000 -04:00
+tags: [reviews, portfolio]
 ---
 I am a big picture thinker and a perpetual dreamer. I love taking an idea and fleshing out the concept, and I'm continually inspired by the potential that today's technology affords. If I'm in a room with a like-minded person, things can really take off.
 

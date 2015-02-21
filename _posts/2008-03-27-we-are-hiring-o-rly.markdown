@@ -2,6 +2,7 @@
 layout: post
 title: We Are Hiring... O RLY?
 date: 2008-03-27 09:59:42.000000000 -04:00
+tags: [ramblings]
 ---
 <p>In the spirit of <a href="http://daringfireball.net/">John Gruber</a> I am going to bring the smack to this unsolicited e-mail I was just sent because some company is trolling <a href="http://www.monster.com/">a popular job search website.</a></p>
 

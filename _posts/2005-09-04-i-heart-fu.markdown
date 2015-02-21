@@ -2,6 +2,7 @@
 layout: post
 title: I [heart] FU
 date: 2005-09-04 17:36:42.000000000 -04:00
+tags: [introspection]
 ---
 <p>First news first: I’ve got a car. I’m not sure if I’ve said it in any of the previous posts, but I do. It’s an old ’95 2-door Honda Civic, 4-cylinder engine, and gets 30 miles to the gallon! It’s also a stick-shift (which I’ve spent the last couple of weeks learning how to drive). It’s official title is the <span class="caps">WHAT</span>?-mobile, but I nicknamed it Scooter since once it gets up to speed, it can really scoot…</p>
 

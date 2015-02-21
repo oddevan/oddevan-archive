@@ -2,6 +2,7 @@
 layout: post
 title: There's a Difference, Guys.
 date: 2012-09-10 13:35:59.000000000 -04:00
+tags: [analysis]
 ---
 <p>Apple didn’t sue Samsung because they had a touchscreen phone. They didn’t sue because of rounded rectangles. They didn’t sue because of icons arranged in a grid.</p>
 

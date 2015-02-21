@@ -2,6 +2,7 @@
 layout: post
 title: I Like To Appreciate
 date: 2014-07-23 17:49:57.000000000 -04:00
+tags: [introspection]
 ---
 I appreciate a lot of things, and I like a lot of things. They are not necessarily the same things.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Maybe
 date: 2008-02-26 09:02:01.000000000 -05:00
+tags: [ramblings]
 ---
 <p>I may or may not have attempted to grill pork on the stove.</p>
 

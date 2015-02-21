@@ -2,6 +2,7 @@
 layout: post
 title: Disconnect
 date: 2005-12-13 16:35:45.000000000 -05:00
+tags: [introspection]
 ---
 <p>Yeah, Evan’s in another one of his moods. For one thing, I’m listening to <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=6056844&amp;s=143441&amp;i=6056836">this song</a> on continuous repeat. The words are pretty meaningless, but the music pretty much sums it up right now.</p>
 

@@ -2,6 +2,7 @@
 layout: post
 title: The One I'm Waiting For
 date: 2006-12-21 09:20:12.000000000 -05:00
+tags: [reviews]
 ---
 <p>We all have those mistakes. Mine was trading in my old <span class="caps">NES</span> for Final Fantasy <span class="caps">VIII</span>. And a used copy at that. But it wasn’t Super Mario 3 that I missed the most, it was another platformer I had picked up called <em>Kirby’s Adventure.</em></p>
 

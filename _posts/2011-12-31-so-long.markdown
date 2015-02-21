@@ -2,6 +2,7 @@
 layout: post
 title: So Long...
 date: 2011-12-31 12:32:20.000000000 -05:00
+tags: [introspection]
 ---
 <p>There's about 3 hours left in 2011 here in South Carolina. I'm probably going to do some new years survey thing in the next 24 hours or so. But for right now, I'd like to end this year. And so...</p>
 

@@ -2,6 +2,7 @@
 layout: post
 title: Because I Don't Blog Enough
 date: 2011-01-01 12:18:26.000000000 -05:00
+tags: [introspection]
 ---
 <p><strong>What was the single best thing that happened this past year?</strong> Getting married. Mostly because that set the tone for the whole year.</p>
 

@@ -2,6 +2,7 @@
 layout: post
 title: The New Television
 date: 2014-06-07 20:11:02.000000000 -04:00
+tags: [analysis, portfolio]
 ---
 It was a little over a year ago that Netflix CEO Reed Hastings laid out their strategy:
 

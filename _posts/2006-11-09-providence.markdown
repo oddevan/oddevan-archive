@@ -2,6 +2,7 @@
 layout: post
 title: Providence
 date: 2006-11-09 09:27:54.000000000 -05:00
+tags: [introspection]
 ---
 <p>As I mentioned in <a href="http://www.oddevan.com/main.php/archives/136/nano-update-day-eight/">last night’s update,</a> Dustin, my <span class="caps">RUF</span> minister here at Furman, was airlifted to the hospital yesterday evening. Apparently his bike locked up — tripped on a rock or something — and threw him headfirst onto the ground. Eventually they had to take him into surgery for brain swelling. As of right now he’s stable but in a <del>medically-induced</del> coma until the swelling stops.</p>
 

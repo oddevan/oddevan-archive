@@ -2,6 +2,7 @@
 layout: post
 title: Scientific Voting
 date: 2008-10-22 09:57:55.000000000 -04:00
+tags: [analysis]
 ---
 <p>Comments like <a href="http://www.newyorker.com/humor/2008/10/27/081027sh_shouts_sedaris?currentPage=all">this chicken-or-crap essay</a> <a href="http://daringfireball.net/linked/2008/10/21/sedaris-undecided">pointed out by John Gruber</a> notwithstanding, I’m still on the fence to a certain degree about this election. I’ve appreciated John McCain’s willingness to go against the party establishment the past few years, a reason I’ll be voting for <a href="http://lgraham.senate.gov/">our current senator</a> as well. On the other hand, Barack Obama appears to have a <a href="http://www.techcrunch.com/2008/01/29/the-techcrunch-tech-president-endorsements-barack-obama-and-john-mccain/">solid technology platform</a> and it’s undoubtable that he’s inspired a lot of people to take interest in politics.</p>
 

@@ -2,6 +2,7 @@
 layout: post
 title: Another Flame War
 date: 2006-01-18 16:33:41.000000000 -05:00
+tags: [ramblings]
 ---
 <p>The comments on this digg story have once again degraded into another flamewar. Because the simple mention of anything religious in the tech world is absolutely taboo. This comment really took the cake, though:</p>
 

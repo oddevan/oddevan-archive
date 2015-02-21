@@ -2,6 +2,7 @@
 layout: post
 title: Religion Importance
 date: 2006-03-29 09:33:16.000000000 -05:00
+tags: [introspection]
 ---
 <p>Okay, I know there are lies, d**n lies, and statistics, but here’s some interesting statistics I found in this program we had to get for Poly Sci class:</p>
 

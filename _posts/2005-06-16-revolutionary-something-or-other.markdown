@@ -2,6 +2,7 @@
 layout: post
 title: Revolutionary Something Or Other
 date: 2005-06-16 17:38:43.000000000 -04:00
+tags: [ramblings]
 ---
 <p>My two cents on the Nintendo Revolution / Xbox 360 / PlayStation 3 debate, posted at <a href="http://www.engadget.com/entry/1234000100046549#c297191">Engadget:</a></p>
 

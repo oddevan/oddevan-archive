@@ -2,6 +2,7 @@
 layout: post
 title: Violence In Games
 date: 2007-06-21 10:20:08.000000000 -04:00
+tags: [ramblings]
 ---
 <p>If you haven’t heard about all the to-do about Manhunt 2, the <a href="http://en.wikipedia.org/wiki/Manhunt_2">wikipedia page</a> has a nice summary. Basically, someone made an <strong>extremely</strong> violent game, got an <a href="http://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board#Current">Adults Only</a> rating from the <span class="caps">ESRB</span>, which makes it against company policy for it to be stocked at most major retailers or played on the major game consoles. What follows is my thoughts from <a href="http://www.nintendowiifanboy.com/2007/06/21/wii-warm-up-if-gamers-are-aging-should-ao-games-be-okay/">this discussion at Wii Fanboy.</a></p>
 

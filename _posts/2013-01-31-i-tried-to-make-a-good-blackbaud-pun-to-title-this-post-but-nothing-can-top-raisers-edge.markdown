@@ -3,6 +3,7 @@ layout: post
 title: I Tried To Make a Good "Blackbaud" Pun To Title This Post But Nothing Can Top
   "Raisers Edge"
 date: 2013-01-31 12:38:00.000000000 -05:00
+tags: [introspection]
 ---
 <p>Today was my last official day at Blackbaud. Never you mind that I haven’t done any work for them since I got the news <a href="http://www.oddevan.com/post/40622024531" target="_blank">two and a half weeks ago</a>. I knew a lot of great people there, and I will miss working with all of them.</p>
 

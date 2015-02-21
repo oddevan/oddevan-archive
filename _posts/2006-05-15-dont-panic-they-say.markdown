@@ -2,6 +2,7 @@
 layout: post
 title: Don't Panic They Say
 date: 2006-05-15 10:30:06.000000000 -04:00
+tags: [introspection]
 ---
 <p>Random thoughts as I sit here at 12:42 AM doing Poly Sci work…</p>
 

@@ -2,6 +2,7 @@
 layout: post
 title: This Kony 2012 Stuff
 date: 2012-03-07 12:34:42.000000000 -05:00
+tags: [ramblings]
 ---
 <p>Having kept track of or been involved with <a href="http://invisiblechildren.com/">Invisible Children</a> in one way or another since 2006, I'm excited to see <a href="http://vimeo.com/37119711">their latest video</a> getting so much attention.</p>
 

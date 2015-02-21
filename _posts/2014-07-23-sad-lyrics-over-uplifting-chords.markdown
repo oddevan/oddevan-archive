@@ -2,10 +2,11 @@
 layout: post
 title: Sad Lyrics Over Uplifting Chords
 date: 2014-07-23 20:28:12.000000000 -04:00
+tags: [reviews]
 ---
 I like Owl City. [This is independent of my appreciation for Owl City.][appreciate] At their best, Owl City has a tendency to take me back to the late nights in my humid converted-attic bedroom the summer before my sophomore year of high school. To sum up a thousand-word essay in a sentence, it was the summer I really started letting my imagination free. Needless to say, it was a very formative ten weeks.
 
-[appreciate]: http://www.oddevan.com/i-like-to-appreciate/index.html
+[appreciate]: {% post_url 2014-07-23-i-like-to-appreciate %}
 
 By that measure, Owl City's new EP _Ultraviolet_ does not disappoint.
 

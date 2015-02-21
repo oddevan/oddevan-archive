@@ -2,6 +2,7 @@
 layout: post
 title: The Voice
 date: 2013-04-27 13:39:46.000000000 -04:00
+tags: [introspection, portfolio]
 ---
 <p>It was the middle of the night in the middle of winter my freshman year when God spoke to me.</p>
 

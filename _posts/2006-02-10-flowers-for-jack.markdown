@@ -2,6 +2,7 @@
 layout: post
 title: Flowers For Jack
 date: 2006-02-10 09:34:02.000000000 -05:00
+tags: [ramblings]
 ---
 <p>I <a href="http://www.joystiq.com/2006/02/07/flowers-for-jack-part-deux/2#c1014420">left a note for Jack Thompson</a> over at <a href="http://www.joystiq.com/">Joystiq</a> that he&#8217;ll probably never read, though I&#8217;ve heard he goes there every-so-often.<br />
 <blockquote><span class="caps">STOP</span> <span class="caps">CALLING</span> <span class="caps">YOURSELF</span> A <span class="caps">CHRISTIAN</span>, <span class="caps">JACK</span> <span class="caps">THOMPSON</span>.</p>

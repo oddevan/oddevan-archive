@@ -2,6 +2,7 @@
 layout: post
 title: The Late Unpleasantness
 date: 2011-05-02 13:29:06.000000000 -04:00
+tags: [ramblings]
 ---
 <p>Have a few brief thoughts on this whole Bin Laden kerfluffle that are too long for <a href="http://twitter.com/oddevan">twitter</a>, so here goes.</p>
 

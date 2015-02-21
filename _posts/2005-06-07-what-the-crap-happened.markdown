@@ -2,6 +2,7 @@
 layout: post
 title: What the Crap Happened
 date: 2005-06-07 17:40:03.000000000 -04:00
+tags: [ramblings]
 ---
 <p>In <a href="http://apple.slashdot.org/apple/05/06/06/1752234.shtml?tid=118&amp;tid=179&amp;tid=3">this /. story</a> Apple is reported to have officially switched to Intel processors, citing more innovation, better power use, and the fact that they&#8217;ve been planning it for the past five years. Mac OS X already runs, they&#8217;ve got a real-time emulation layer to transparently run current Mac programs, and most other programs can be rebuilt in two hours.</p>
 

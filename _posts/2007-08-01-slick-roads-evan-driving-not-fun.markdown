@@ -2,6 +2,7 @@
 layout: post
 title: Slick Roads + Evan Driving = Not Fun
 date: 2007-08-01 10:16:27.000000000 -04:00
+tags: [introspection]
 ---
 <p>Sometimes God throws a curveball and it’s fun. Sometimes it’s not. I had a not-so-fun curveball this past weekend in the form of a car wreck.</p>
 

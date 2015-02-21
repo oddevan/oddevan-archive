@@ -2,6 +2,7 @@
 layout: post
 title: Why Apple Should Not Buy Nintendo
 date: 2013-12-03 14:19:45.000000000 -05:00
+tags: [analysis, portfolio]
 ---
 They really shouldn't. I want to set expectations up front, and when you're talking about either Apple or Nintendo, people (myself included) are going to have Opinions. But let's back up a bit first.
 

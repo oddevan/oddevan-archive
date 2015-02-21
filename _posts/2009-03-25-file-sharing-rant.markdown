@@ -2,6 +2,7 @@
 layout: post
 title: File Sharing Rant
 date: 2009-03-25 09:12:46.000000000 -04:00
+tags: [analysis, portfolio]
 ---
 <p><i>I’ve largely taken a back seat on the whole file sharing debate. However, now that I actually have <a href="http://www.madcrasher.com/identity/">a self-published work</a> I feel it is time for me to make a public stance. Here goes…</i></p>
 

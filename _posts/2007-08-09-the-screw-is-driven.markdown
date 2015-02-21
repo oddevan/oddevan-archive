@@ -2,6 +2,7 @@
 layout: post
 title: The Screw Is Driven
 date: 2007-08-09 10:07:49.000000000 -04:00
+tags: [introspection]
 ---
 <p>Thoughts while recovering from my first self-made <a href="http://en.wikipedia.org/wiki/Screwdriver_cocktail">screwdriver:</a></p>
 

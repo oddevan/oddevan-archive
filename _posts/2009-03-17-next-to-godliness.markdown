@@ -2,6 +2,7 @@
 layout: post
 title: Next To Godliness
 date: 2009-03-17 09:21:47.000000000 -04:00
+tags: [introspection]
 ---
 <p>I had a job satisfaction crisis earlier in the week. In reality it was more of a life satisfaction crisis, but a crisis of that kind is usually called a &#8220;mid-life crisis&#8221; and isn’t supposed to come until you’re 32, not 23. Besides, it wasn’t that bad. In fact, it led to a realization that, while not completely positive, is better than <a href="http://www.imdb.com/title/tt0088727/quotes">the depths of despair</a>.</p>
 

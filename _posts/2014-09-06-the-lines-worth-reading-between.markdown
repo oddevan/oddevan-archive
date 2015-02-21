@@ -2,6 +2,7 @@
 layout: post
 title: The Lines Worth Reading Between
 date: 2014-09-06 16:29:09.000000000 -04:00
+tags: [analysis]
 ---
 Apple's latest earnings have an interesting note: [their research spending is the highest it's been since 2006][mr-rnd].
 

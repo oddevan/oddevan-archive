@@ -2,10 +2,11 @@
 layout: post
 title: Here Comes 2015!
 date: 2014-12-31 10:42:31.000000000 -05:00
+tags: [introspection]
 ---
 Here we go again with another New Year's Introspection!
 
-1. **What was the single best thing that happened this past year?** [Attending Grok 2014](http://www.oddevan.com/to-learn-and-understand/)
+1. **What was the single best thing that happened this past year?** [Attending Grok 2014]({% post_url 2014-04-09-to-learn-and-understand %})
 2. **What was the single most challenging thing that happened?** Learning to deal with the pain of regret and disappointment on a bigger scale than I thought I'd experience.
 3. **What was an unexpected joy this past year?** [Giving my new camera a workout.](http://www.flickr.com/oddevan)
 4. **What was an unexpected obstacle?** See #2.

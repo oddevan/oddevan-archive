@@ -2,6 +2,7 @@
 layout: post
 title: Limericks Galore
 date: 2008-02-14 09:04:56.000000000 -05:00
+tags: [ramblings]
 ---
 <p>So the genius behind <a href="http://www.xkcd.com/">xkcd</a> just <a href="http://blag.xkcd.com/2008/02/04/limerickdbcom/">opened up</a> <a href="http://www.limerickdb.com/">LimerickDB</a>. Be warned, many (if not most) are definitely <abbr title="Not Safe For Work/Kids/Sensitive People"><span class="caps">NSFW</span></abbr>, but I find many of them quite clever, which I have repeated below.</p>
 

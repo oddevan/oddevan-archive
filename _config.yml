@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Big-picture analysis and ramblings on
   technology, media, life, the universe, and everything.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://oddevan.github.io" # the base hostname & protocol for your site
+url: "http://www.oddevan.com" # the base hostname & protocol for your site
 twitter_username: oddevan
 github_username:  oddevan
 permalink:  /:year/:title.html

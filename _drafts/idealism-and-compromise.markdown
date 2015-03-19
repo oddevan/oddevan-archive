@@ -19,11 +19,19 @@ I am firmly in this camp. I've written [a rebuttal to one of Stallman's articles
 
 ### Freedom is good ###
 
-Richard Stallman and the Free Software Foundation are most known for a legal contract: the [GNU General Public License][gpl]. This creative use of copyright law (described as "copyleft") ensures that computer programs released under its terms will always be free to use, share, and modify. These terms extend to the entirety of programs that contain GPL-licensed code.
+Richard Stallman and the Free Software Foundation are most known for a legal contract: the [GNU General Public License][gpl]. This creative use of copyright law (described as "copyleft") ensures that computer programs released under its terms will always be free to use, share, and modify. These terms extend to the entirety of programs that contain GPL-licensed code. Software that adheres to these terms is considered "Free Software" by Stallman and the FSF; the "free" in this case is in a philosophical sense, similar to "freedom of speech."
 
 [gpl]: http://www.gnu.org/licenses/gpl.html
 
-//talk about good stuff FSF champions
+The most well-known GPL-licensed program is the operating system Linux. This operating system is running on most of the servers that power modern websites and is the basis of the smartphone operating system Android. Because it is covered by the GPL, the [source code for Linux][kernel] is freely available for anyone to download.
+
+[kernel]: https://www.kernel.org
+
+Despite this restriction, there is plenty of money to be made with Linux and other Free Software projects. The usual approach is to give away the code (as required) but sell support and services around the software. [Red Hat Software][rh] made waves in the late 90's dot-com boom by openly declaring the Free nature of their software yet still making money; they provide professional support, maintenance, and consulting services for Linux. A more consumer-facing company is [Automattic][matt], maintainers of the blogging software [WordPress][wp]. While anyone knowledgable enough can download and run WordPress on their own server, many companies will pay to have Automattic set up and maintain a WordPress server for them.
+
+[rh]: http://redhat.com/
+[matt]: http://automattic.com/
+[wp]: http://wordpress.org/
 
 ### Code free or die ###
 

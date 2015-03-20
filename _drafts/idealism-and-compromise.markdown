@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Idealism And Compromise
-date: 2014-12-31 10:42:31.000000000 -05:00
+date: 2015-03-20 22:42:31.000000000 -05:00
 tags: [ramblings]
 ---
 In 1985 Richard M. Stallman, fed up with the growing tendency for software to be sold as an unmodifiable black box, published the [GNU Manifesto][gnu-m], a document detailing a computer system that would respect the freedom and intelligence of programmers everywhere. [Maria Bustillos at _The New Yorker_ wrote an excellent article commemorating the 30 year anniversary of the document.][bustillos] In it, she describes her interactions with many modern programmers:
@@ -32,6 +32,11 @@ Despite this restriction, there is plenty of money to be made with Linux and oth
 [rh]: http://redhat.com/
 [matt]: http://automattic.com/
 [wp]: http://wordpress.org/
+
+The benefits to such a system are obvious to programmers. Concerned about security? Download the source code, check it for issues, then build your own version using it. Don't like a feature or want to add a new one? Download the source code, add the feature, and release it back to the world for others to find useful. The company maintaining your software went out of business? Doesn't matter, the source code is still there for you to use and maintain going forward.
+
+At the heart of Stallman's ideals is the idea that users should control the software, not the other way around. 
+//bit about cars?
 
 ### Code free or die ###
 

@@ -9,5 +9,7 @@ About a year ago, I wrote [an article speculating what the television landscape 
 [Then the impossible happened.][introducing-sling]
 
 [newtv]: #
-[quora]: #
-[introducing-sling]: #
+[quora]: https://www.quora.com/What-are-the-obstacles-to-a-cable-TV-service-operating-over-the-internet/answer/Christopher-Kaminski
+[introducing-sling]: http://www.engadget.com/2015/01/05/sling-tv-announced/
+
+[quora-mlb]: https://www.quora.com/Will-the-new-HBO-Netflix-like-service-be-based-on-Amazon-AWS/answers/10835635

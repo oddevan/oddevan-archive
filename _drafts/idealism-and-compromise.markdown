@@ -40,12 +40,14 @@ At the heart of Stallman's ideals is the idea that users should control the soft
 
 ### Code free or die ###
 
-//stuff about gpl and ios? game engines?
+As with most ideologies, the issues come from 
 
 [In my earlier rant][filesharing2], I expressed disappointment in Stallman and the FSF for diminishing the value of creative work.
 
 //don't value design
+
 // entirety of program must be open sourced, including graphical assets? soundtrack?
+
 //piracy real problem, people are tone deaf
 
 [filesharing2]: {% post_url 2009-03-25-file-sharing-rant %}

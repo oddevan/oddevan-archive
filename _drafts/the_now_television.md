@@ -26,11 +26,28 @@ Hastings would have us believe Netflix and Sling are like oil and water, but I s
 
 [reed-hbo-linear]: http://www.nytimes.com/2015/04/20/business/media/netflix-is-betting-its-future-on-exclusive-programming.html?_r=0
 
-### HBO ~~In a Million Years~~ Now ###
+### Versus HBO ###
 
-[quora-mlb]: https://www.quora.com/Will-the-new-HBO-Netflix-like-service-be-based-on-Amazon-AWS/answers/10835635
+HBO has one major handicap in the new streaming world: they like their middlemen. Even with their new "no cable required" service HBO Now, the service is being made available [through third party providers, not HBO itself.][hbonow-middlemen] Those "providers" include Apple and Google (through their phones and set-top boxes), though; so the difference to the end-user is negligible.
 
-### Your Local PlayStation Vue ###
+[hbonow-middlemen]: http://www.theverge.com/2015/3/16/8226813/hbo-wont-sell-now-subscriptions-cablevision-optimum-partnership
+
+That, however, makes Sling a _partner_ to HBO, not a competitor.[^nomiddle] In fact, Sling's already signed on HBO as an add-on channel for the same monthly rate as HBO Now. And while an HBO subscription through Sling does not include access to HBO's on-demand service HBO Go, [Sling's on-demand library has the exact same content][hbogo-sling].
+
+[hbogo-sling]: https://help.hbogo.com/hc/en-us/articles/204769168-Does-HBO-on-Sling-TV-have-the-same-programming-as-HBO-NOW-and-HBO-GO-
+
+[^nomiddle]: If HBO does ever decide to lose the middleman, then there's functionally no difference between them and Netflix. I don't know if this is a good thing or a bad thing, or who it would be a good/bad thing for...
+
+### Versus PlayStation Vue ###
+
+PlayStation Vue was [announced][vue-announced] around the same time as Sling as a similar "internet cable" idea, but exclusive to PlayStation 3 and PlayStation 4 consoles. Now that the service has launched in 3 television markets (New York, Chicago, and Philadelphia), we have a better idea of [what it will look like][vue-plans]. And I must confess to being disappointed.
+
+[vue-announced]: http://www.ign.com/articles/2015/01/06/ces-2015-playstation-vue-tv-service-coming-in-early-2015
+[vue-plans]: http://www.playstationnetwork.com/vue/plans/
+
+### Versus the unannounced, unreleased, unconfirmed Apple TV ###
+
+In case the headline wasn't clear, Sling has a major advantage over anything Apple has in the works: you can subscribe to Sling _now_. Current rumors peg delays on Apple's TV service on Apple's desire to have broadcast networks, which requires either launching in limited markets at first (as Sony is doing)
 
 ### The Sling Shot ###
 

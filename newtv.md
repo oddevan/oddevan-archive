@@ -6,7 +6,7 @@ permalink: /newtv/
 
 There's a lot of talk about ditching cable and using streaming services instead to get your entertainment. Here's our master list of options. This is for US-centric audiences; viewers in other countries will have other options.
 
-*Note:* As more services start up or shut down, we will keep this guide updated accordingly. A full revision history will be at the end.
+*Note:* As more services start up or shut down, we will keep this guide updated accordingly. [The full revision history is on GitHub.](https://github.com/oddevan/oddevan.github.io/commits/master/newtv.md)
 
 ## Modern Cable Family ##
 
@@ -36,6 +36,8 @@ Showtime is unique on this list as it is the only standalone channel that offers
 
 **Through Amazon Prime or Hulu:** $9/month
 **Through Vue or standalone app:** $11/month
+
+---
 
 ## Recorded programs ##
 
@@ -78,6 +80,8 @@ A new comedy-focused service from NBC. It's different from the other options her
 
 **Cost:** $4/month
 
+---
+
 ## Sports! ##
 
 The major sports leagues often have their own services. Pay attention to blackouts, though; these services often offer "out-of-market" games, so if one of the teams is your "local" team (or if the game is being broadcast on a national network), you won't be able to watch the game. The prices we have listed are the full-season prices; leagues will often lower the price as the season progresses.
@@ -101,7 +105,7 @@ A service from Fox Sports that showcases many European league games. If you're a
 **Monthly subscription:** $20/month
 **Annual subscription:** $140/year
 
-### Other Networks ###
+### Other Sports Networks ###
 
 * [NBA League Pass](http://www.nba.com/leaguepass/)
 	- **Single Game:** $7/each
@@ -115,3 +119,5 @@ A service from Fox Sports that showcases many European league games. If you're a
 	- **Cost:** $10/month
 * [MLS Live](http://live.mlssoccer.com/mlsmdl/)
 	- **Cost:** $90/year
+
+---

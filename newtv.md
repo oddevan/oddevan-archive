@@ -4,6 +4,8 @@ title: Guide to Streaming Television
 permalink: /newtv/
 ---
 
+<div class="alert alert-info">Hey! Instead of keeping this page up-to-date, I spun it off into its own website. <a href="http://cordcutdb.com/" class="alert-link">Check out Cordcut DB!</a></div>
+
 There's a lot of talk about ditching cable and using streaming services instead to get your entertainment. Here's our master list of options. This is for US-centric audiences; viewers in other countries will have other options.
 
 *Note:* As more services start up or shut down, we will keep this guide updated accordingly. [The full revision history is on GitHub.](https://github.com/oddevan/oddevan.github.io/commits/master/newtv.md)
